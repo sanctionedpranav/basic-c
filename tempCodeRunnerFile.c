@@ -1,1 +1,1 @@
-/
+printf("ENter the elements: %d\n
